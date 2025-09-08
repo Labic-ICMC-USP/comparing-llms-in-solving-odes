@@ -1,0 +1,19 @@
+*TITLE*:Benchmarking Large Language Models for Solving
+Ordinary Differential Equations
+
+*ABSTRACT*: Solving Ordinary Differential Equations (ODEs)
+requires both mathematical modeling and reasoning skills, tradi-
+tionally reserved for trained experts. With the rapid advance-
+ments of Large Language Models (LLMs), there is growing
+interest in evaluating their potential to automate complex math-
+ematical tasks, including those involving ODEs. In this paper, we
+introduce a novel benchmark for first-order, open-ended ODE
+problems and propose an approach for automatically generating
+step-by-step solutions, including integration with external numer-
+ical solvers. The benchmark evaluates a diverse set of proprietary
+and open-source LLMs on a curated dataset of ODE problems.
+Using a controlled three-shot prompting strategy, we assess model
+performance across several dimensions. Our findings highlight
+the current limitations of LLMs in reasoning about open-ended
+ODE problems and suggest substantial room for improvement in
+this domain
